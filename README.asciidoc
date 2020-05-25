@@ -1,1 +1,8 @@
 = practiceCICD
+
+== 達成したいこと
+- JavaScriptプログラムをTravisCI経由でAWS Beanstalkにデプロイする。
+
+== Node.jsモジュールのインストール
+=== Express
+`npm install --save-dev express`
