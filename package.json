@@ -18,9 +18,9 @@
     "url": "https://github.com/wtrmiya/practiceCICD/issues"
   },
   "homepage": "https://github.com/wtrmiya/practiceCICD#readme",
-  "devDependencies": {
-    "express": "^4.17.1",
-    "mongodb": "^3.5.7",
-    "nodemon": "^2.0.4"
+  "dependencies": {
+    "express": "4.17.1",
+    "mongodb": "3.5.7",
+    "nodemon": "2.0.4"
   }
 }
